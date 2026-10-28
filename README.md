@@ -25,4 +25,4 @@ Statistical Analysis · Data Cleaning · Data Visualization · Market Research �
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/taeyi-ham/) · [GitHub](https://github.com/Gkaxodl)
+[LinkedIn](https://www.linkedin.com/in/taeyi-ham/) · [GitHub](https://github.com/TaeYiHam)
